@@ -156,3 +156,7 @@ Ctrl-p | 模糊搜索文件
 
 ##### 语法总结
 子级>、同级+、提升层级^、重复输出*、组输出() 基本属性id# 基本属性class.、自定义属性[]、属性自增$、文字属性{}
+### vim-instant-markdown
+需安装instant-markdown-d
+执行 npm install -g install-markdown-d
+
