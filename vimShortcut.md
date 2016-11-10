@@ -162,3 +162,10 @@ Ctrl-p | 模糊搜索文件
 需安装instant-markdown-d
 执行 npm install -g install-markdown-d
 
+### vim editorconfig 插件
+
+### vim-autoformat
+配置详见github
+需安装相关软件
+
+开启命令为 :Autoformat
