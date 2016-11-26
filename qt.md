@@ -5,3 +5,5 @@
 2. 出现下面提示：/usr/bin/ld: cannot find -lGL
 > 执行下面命令解决：
 sudo apt-get install libgl1-mesa-dev libglu1-mesa-dev
+
+
