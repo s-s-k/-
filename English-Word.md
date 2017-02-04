@@ -7,3 +7,8 @@
 5. aspect
 6. representation
 7. constraint 约束
+8. minuses 负号
+9. assumption 假定
+10. matrix 矩阵
+11. lookup 抬头，表头
+12. measure 测量
