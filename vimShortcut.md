@@ -79,12 +79,21 @@ zd     |删除当前折叠
 zn     |禁用折叠
 zN     |启用折叠
 
-### 查找
+### 查找 / ?
 
 快捷键 | 功能
 --------- | ------------------
-    |
-###分屏功能
+/+要查找的字符    | 显示文本第一个出现的字符
+？+ 要查找的字符 | 显示文本中最后出现的字符
+**注意当上面两个命令执行后按回车高亮所有匹配文**
+
+### 替换 :s  :su
+快捷键 |  功能
+-------| ------
+:[range]s[ubstitute]/{pattern}/{string}/[flags] [count]  |  替换功能命令
+:s/vi/sky/ |替换当前行的第一个vi为sky
+:s/vi/sky/g | 替换当前行所有vi为sky
+### 分屏功能
 
 ## 插件快捷键
 
@@ -167,7 +176,7 @@ Ctrl-p | 模糊搜索文件
 子级>、同级+、提升层级^、重复输出*、组输出() 基本属性id# 基本属性class.、自定义属性[]、属性自增$、文字属性{}
 ### vim-instant-markdown
 需安装instant-markdown-d
-执行 npm install -g install-markdown-d
+执行 npm install -g instant-markdown-d
 
 ### vim editorconfig 插件
 

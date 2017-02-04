@@ -12,3 +12,4 @@
 10. matrix 矩阵
 11. lookup 抬头，表头
 12. measure 测量
+13. propagation 繁衍增殖
