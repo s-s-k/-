@@ -22,3 +22,5 @@
 2. Mike Bostock 博客和作品展示 http://bost.ocks.org/mike/    http://bl.ocks.org/mbostock/
 3. dashing  d3.js https://www.dashingd3js.com/table-of-contents
 4. Custom visualization with D3.js  http://jsdatav.is/chap07.html
+## js 事件处理机制
+1. https://www.w3.org/TR/DOM-Level-3-Events
